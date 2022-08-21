@@ -7,7 +7,7 @@ export default function Navbar() {
     <React.Fragment>
         <nav className="navbar navbar-expand-lg py-lg-3 navbar-dark">
             <div className="container">
-                <a href="Home.js" className="navbar-brand me-lg-5">
+                <a href="#home" className="navbar-brand me-lg-5">
                     <img src="assets/images/bitbo-white.png" alt="" className="logo-dark" height="40" />
                 </a>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
