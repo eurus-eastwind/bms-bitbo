@@ -1,7 +1,7 @@
 
 
-import React from 'react'
-
+import React from 'react';
+import { Link } from 'react-router-dom'
 export default function Navbar() {
   return (
     <React.Fragment>
@@ -14,7 +14,6 @@ export default function Navbar() {
                     aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                     <i className="mdi mdi-menu"></i>
                 </button>
-
                 {/* Ibabalik to kapag nailagay na ang iba */}
                 <div className="collapse navbar-collapse" id="navbarNavDropdown">
                     <ul className="navbar-nav me-auto align-items-center">
@@ -44,7 +43,7 @@ export default function Navbar() {
                                     <a className="dropdown-item" href="login-purokleader.html">Purok Leader</a>
                                     <a className="dropdown-item" href="login-staff.html">Staff</a>
                                     <a className="dropdown-item" href="login-brgyofficial.html">Brgy. Official</a>
-                                    <a className="dropdown-item" href="login-admin.html">Admin</a>
+                                    <a className="dropdown-item" href="loginAdmin">Admin</a>
                                 </div>
                             </div>
                         </li>

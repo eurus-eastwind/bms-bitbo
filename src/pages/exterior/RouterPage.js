@@ -4,15 +4,13 @@ import {
   Route,
   Routes
 } from "react-router-dom";
-import Home from './home';
-import Service from './service';
+import LoginAdmin from '../exterior/login/admin';
 
 export default function RouterPage() {
   return (
     <Router>
       <Routes>
-        <Route exact path="/home" element={<Home />} />
-        <Route exact path="/service" element={<Service />} />
+        <Route path="/LoginAdmin" element={<LoginAdmin />} />
       </Routes>
     </Router>
   )
