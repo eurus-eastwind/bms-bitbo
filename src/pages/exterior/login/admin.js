@@ -15,7 +15,7 @@ export default function LoginAdmin() {
                                         <p class="text-muted mb-4">Enter your email address and password to access your account.</p>
                                     </div>
     
-                                    <form action="BITBo/admin/bitbo-admin-index.html">
+                                    <form action="/AdminDashboard">
 
                                         <div class="mb-3">
                                             <label for="emailaddress" class="form-label">Email address</label>

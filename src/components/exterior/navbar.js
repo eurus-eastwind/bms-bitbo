@@ -39,8 +39,8 @@ export default function Navbar() {
                             <div className="btn-group">
                                 <button type="button" className="btn btn-light dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false"><i className="mdi mdi-login me-2"></i> Login <span className="caret"></span> </button>
                                 <div className="dropdown-menu">
-                                    <a className="dropdown-item" href="login-resident.html">Resident</a>
-                                    <a className="dropdown-item" href="login-purokleader.html">Purok Leader</a>
+                                    <a className="dropdown-item" href="loginResident">Resident</a>
+                                    <a className="dropdown-item" href="loginPurokLeader.html">Purok Leader</a>
                                     <a className="dropdown-item" href="login-staff.html">Staff</a>
                                     <a className="dropdown-item" href="login-brgyofficial.html">Brgy. Official</a>
                                     <a className="dropdown-item" href="loginAdmin">Admin</a>

@@ -10,9 +10,8 @@ export default function faq() {
                         <div className="text-center">
                             <h1 className="mt-0"><i className="mdi mdi-frequently-asked-questions"></i></h1>
                             <h3>Frequently Asked <span className="text-primary">Questions</span></h3>
-                            <p className="text-muted mt-2">Here are some of the basic types of questions for our customers. For
-                                more
-                                <br/>information please contact us.
+                            <p className="text-muted mt-2">Here are some of the basic types of questions for our customers. 
+                                <br/>For more information please contact us.
                             </p>
 
                             <button type="button" className="btn btn-success btn-sm mt-2"><i
