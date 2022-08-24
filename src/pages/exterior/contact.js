@@ -10,8 +10,8 @@ export default function contact() {
                         <div class="text-center">
                             <h3>Get In <span class="text-primary">Touch</span></h3>
                             <p class="text-muted mt-2">Please fill out the following form and we will get back to you
-                                shortly. For more
-                                <br/>information please contact us.
+                                shortly.
+                                <br/> For more information please contact us.
                             </p>
                         </div>
                     </div>

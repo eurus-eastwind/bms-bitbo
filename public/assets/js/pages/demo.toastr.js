@@ -9,13 +9,19 @@
 	}), i("#toastr-four").on("click", function (t) {
 		i.NotificationApp.send("Request declined!", "", "top-right", "rgba(0,0,0,0.2)", "error")
 	}), i("#toastr-five").on("click", function (t) {
-		i.NotificationApp.send("User updated successfully!", "", "top-right", "rgba(0,0,0,0.2)", "success")
+		i.NotificationApp.send("Resident updated successfully!", "", "top-right", "rgba(0,0,0,0.2)", "success")
+	}), i("#toastr-five2").on("click", function (t) {
+		i.NotificationApp.send("Brgy official updated successfully!", "", "top-right", "rgba(0,0,0,0.2)", "success")
 	}), i("#toastr-six").on("click", function (t) {
 		i.NotificationApp.send("Blotter updated successfully!", "", "top-right", "rgba(0,0,0,0.2)", "success")
-	}), i("#toastr-resolve").on("click", function (t) {
-		i.NotificationApp.send("Blotter marked as resolved!", "", "top-right", "rgba(0,0,0,0.2)", "success")
+	}), i("#toastr-forreview").on("click", function (t) {
+		i.NotificationApp.send("Blotter marked as for review!", "", "top-right", "rgba(0,0,0,0.2)", "success")
 	}), i("#toastr-household").on("click", function (t) {
 		i.NotificationApp.send("Household updated successfully!", "", "top-right", "rgba(0,0,0,0.2)", "success")
+	}), i("#toastr-addhousehold").on("click", function (t) {
+		i.NotificationApp.send("Household added successfully!", "", "top-right", "rgba(0,0,0,0.2)", "success")
+	}), i("#toastr-reqblotter").on("click", function (t) {
+		i.NotificationApp.send("Blotter requested successfully!", "", "top-right", "rgba(0,0,0,0.2)", "success")
 	}), i("#toastr-deletecert").on("click", function (t) {
 		i.NotificationApp.send("Certificate deleted!", "", "top-right", "rgba(0,0,0,0.2)", "error")
 	}), i("#toastr-deletepay").on("click", function (t) {
@@ -34,10 +40,42 @@
 		i.NotificationApp.send("Payment added successfully!", "", "top-right", "rgba(0,0,0,0.2)", "success")
 	}), i("#toastr-edittheme").on("click", function (t) {
 		i.NotificationApp.send("Theme updated successfully!", "", "top-right", "rgba(0,0,0,0.2)", "success")
+	}), i("#toastr-editevent").on("click", function (t) {
+		i.NotificationApp.send("Event updated successfully!", "", "top-right", "rgba(0,0,0,0.2)", "success")
+	}), i("#toastr-editproject").on("click", function (t) {
+		i.NotificationApp.send("Project updated successfully!", "", "top-right", "rgba(0,0,0,0.2)", "success")
+	}), i("#toastr-editaccount").on("click", function (t) {
+		i.NotificationApp.send("Account updated successfully!", "", "top-right", "rgba(0,0,0,0.2)", "success")
+	}), i("#toastr-createevent").on("click", function (t) {
+		i.NotificationApp.send("Event / Project created successfully!", "", "top-right", "rgba(0,0,0,0.2)", "success")
+	}), i("#toastr-updateadmin").on("click", function (t) {
+		i.NotificationApp.send("Admin updated successfully!", "", "top-right", "rgba(0,0,0,0.2)", "success")
+	}), i("#toastr-staffupdate").on("click", function (t) {
+		i.NotificationApp.send("Staff updated successfully!", "", "top-right", "rgba(0,0,0,0.2)", "success")
+	}), i("#toastr-hworkerupdate").on("click", function (t) {
+		i.NotificationApp.send("Health Worker updated successfully!", "", "top-right", "rgba(0,0,0,0.2)", "success")
+	}), i("#toastr-pleaderupdate").on("click", function (t) {
+		i.NotificationApp.send("Purok Leader updated successfully!", "", "top-right", "rgba(0,0,0,0.2)", "success")
+	}), i("#toastr-summon").on("click", function (t) {
+		i.NotificationApp.send("Blotter marked as summon!", "", "top-right", "rgba(0,0,0,0.2)", "success")
+	}), i("#toastr-settled").on("click", function (t) {
+		i.NotificationApp.send("Blotter marked as settled!", "", "top-right", "rgba(0,0,0,0.2)", "success")
+	}), i("#toastr-editreq").on("click", function (t) {
+		i.NotificationApp.send("Request edited successfully!", "", "top-right", "rgba(0,0,0,0.2)", "success")
+	}), i("#toastr-joinevent").on("click", function (t) {
+		i.NotificationApp.send("You joined the event successfully!", "", "top-right", "rgba(0,0,0,0.2)", "success")
+	}), i("#toastr-reqcert").on("click", function (t) {
+		i.NotificationApp.send("Certificate requested successfully!", "", "top-right", "rgba(0,0,0,0.2)", "success")
+	}), i("#toastr-dismiss").on("click", function (t) {
+		i.NotificationApp.send("Blotter marked as dismissed!", "", "top-right", "rgba(0,0,0,0.2)", "error")
+	}), i("#toastr-cancelblotter").on("click", function (t) {
+		i.NotificationApp.send("Blotter cancelled!", "", "top-right", "rgba(0,0,0,0.2)", "error")
+	}), i("#toastr-cancelreq").on("click", function (t) {
+		i.NotificationApp.send("Request cancelled!", "", "top-right", "rgba(0,0,0,0.2)", "error")
 	}), i("#toastr-deleteid").on("click", function (t) {
 		i.NotificationApp.send("ID deleted!", "", "top-right", "rgba(0,0,0,0.2)", "error")
-	}), i("#toastr-seven").on("click", function (t) {
-		i.NotificationApp.send("", "Set the `hideAfter` property to false and the toast will become sticky.", "top-right", "rgba(0,0,0,0.2)", "success")
+	}), i("#toastr-endterm").on("click", function (t) {
+		i.NotificationApp.send("Barangay official was terminated!", "", "top-right", "rgba(0,0,0,0.2)", "error")
 	}), i("#toastr-eight").on("click", function (t) {
 		i.NotificationApp.send("", "Set the `showHideTransition` property to fade|plain|slide to achieve different transitions.", "top-right", "rgba(0,0,0,0.2)", "info", 3e3, 1, "fade")
 	})
