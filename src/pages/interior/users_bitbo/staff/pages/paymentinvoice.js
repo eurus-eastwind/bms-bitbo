@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function StaffPaymentInvoice() {
+export default function BITBoStaffPaymentInvoice() {
   return (
     <React.Fragment>
           <div className="container-fluid">

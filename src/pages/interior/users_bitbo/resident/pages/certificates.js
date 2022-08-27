@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ResidentCertificates() {
+export default function BITBoResidentCertificates() {
   return (
     <React.Fragment>
           <div className="container-fluid">

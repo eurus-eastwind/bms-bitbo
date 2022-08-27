@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function StaffBlotter() {
+export default function BITBoStaffBlotter() {
   return (
     <React.Fragment>
           <div className="container-fluid">

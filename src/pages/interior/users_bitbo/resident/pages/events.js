@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ResidentEvents() {
+export default function BITBoResidentEvents() {
   return (
     <React.Fragment>
           <div className="container-fluid">

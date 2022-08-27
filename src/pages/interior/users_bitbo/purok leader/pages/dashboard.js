@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function PurokLeaderDashboard() {
+export default function BITBoPurokLeaderDashboard() {
   return (
     <React.Fragment>
           <div className="container-fluid">

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ResidentPayment() {
+export default function BITBoResidentPayment() {
   return (
     <React.Fragment>
           <div className="container-fluid">

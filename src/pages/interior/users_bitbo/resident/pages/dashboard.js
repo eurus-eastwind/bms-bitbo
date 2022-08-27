@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function ResidentDashboard() {
+export default function BITBoResidentDashboard() {
   return (
     <React.Fragment>
           <div className="container-fluid">

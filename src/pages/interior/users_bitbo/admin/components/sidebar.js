@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function SidebarAdmin() {
+export default function BITBoAdminSidebar() {
     return (
         <React.Fragment>
             <div class="leftside-menu">

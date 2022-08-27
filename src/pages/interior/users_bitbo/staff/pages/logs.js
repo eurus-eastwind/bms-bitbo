@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function StaffLogs() {
+export default function BITBoStaffLogs() {
   return (
     <React.Fragment>
           <div className="container-fluid">

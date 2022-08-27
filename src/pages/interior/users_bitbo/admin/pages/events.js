@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function AdminEvents() {
+export default function BITBoAdminEvents() {
   return (
     <React.Fragment>
           <div className="container-fluid">

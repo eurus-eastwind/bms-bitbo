@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function AdminBlotter() {
+export default function BITBoAdminBlotter() {
   return (
     <React.Fragment>
           <div className="container-fluid">

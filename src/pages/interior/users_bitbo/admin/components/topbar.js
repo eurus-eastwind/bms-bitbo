@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function TopbarAdmin() {
+export default function BITBoAdminTopbar() {
     return (
         <React.Fragment>
             <div class="navbar-custom">

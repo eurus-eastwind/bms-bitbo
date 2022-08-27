@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function BrgyOfficialServices() {
+export default function BITBoBrgyOfficialServices() {
   return (
     <React.Fragment>
           <div className="container-fluid">
