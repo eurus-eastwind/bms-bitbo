@@ -13857,7 +13857,7 @@ body {
 .leftside-menu {
     width: 260px;
     z-index: 10;
-    background: linear-gradient(135deg, #8f75da 0, #203469 60%);
+    background: linear-gradient(135deg, #203469 0, #203469 60%);
     bottom: 0;
     position: fixed;
     top: 0;
