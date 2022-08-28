@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function IHealthAdminIndex() {
+export default function IHealthBrgyOfficialDashboard() {
   return (
     <React.Fragment>
           <div className="container-fluid">
