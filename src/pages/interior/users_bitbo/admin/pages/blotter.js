@@ -622,7 +622,7 @@ export default function BITBoAdminBlotter() {
                                           <div className="col-md-6">
                                               <div className="mb-3">
                                                   <label htmlFor="firstname" className="form-label">Date Recorded</label>
-                                                  <input type="date" className="form-control" id="blotterid" placeholder="Date Recorded" />
+                                                  <input type="date" className="form-control" id="daterecorded" placeholder="Date Recorded" />
                                               </div>
                                           </div>
                                       </div>
@@ -630,7 +630,7 @@ export default function BITBoAdminBlotter() {
                                           <div className="col-12">
                                               <div className="mb-3">
                                                   <label htmlFor="userbio" className="form-label">Complaint</label>
-                                                  <textarea className="form-control" id="userbio" rows={4} placeholder="What's your complaint?..." defaultValue={""} />
+                                                  <textarea className="form-control" id="complaint" rows={4} placeholder="What's your complaint?..." defaultValue={""} />
                                               </div>
                                           </div>
                                       </div>
@@ -698,7 +698,7 @@ export default function BITBoAdminBlotter() {
                                                           </select>
                                                       </div>
                                                       <div className="col">
-                                                          <input type="text" className="form-control" id="birthplace" placeholder="Barangay" defaultValue="Brgy. BITBo" disabled />
+                                                          <input type="text" className="form-control" id="barangay" placeholder="Barangay" defaultValue="Brgy. BITBo" disabled />
                                                       </div>
                                                   </div>
                                               </div>

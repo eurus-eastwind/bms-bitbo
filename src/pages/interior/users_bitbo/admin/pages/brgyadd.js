@@ -78,7 +78,7 @@ export default function BITBoAdminBrgyadd() {
                                                       </select>
                                                   </div>
                                                   <div className="col">
-                                                      <input type="text" className="form-control" id="birthplace" placeholder="Barangay" defaultValue="Brgy. BITBo" disabled />
+                                                      <input type="text" className="form-control" id="barangay" placeholder="Barangay" defaultValue="Brgy. BITBo" disabled />
                                                   </div>
                                               </div>
                                           </div>
@@ -115,7 +115,7 @@ export default function BITBoAdminBrgyadd() {
                                   <div className="col-md-12">
                                       <div className="mb-3">
                                           <label htmlFor="lastname" className="form-label">Photo</label>
-                                          <input type="file" className="form-control" id="phot" placeholder="Photo" />
+                                          <input type="file" className="form-control" id="photo" placeholder="Photo" />
                                       </div>
                                   </div>
                               </form>

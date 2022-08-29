@@ -80,7 +80,9 @@ export default function BITBoAdminUsers() {
                                                 <tr>
                                                     <td>
                                                         <div className="media align-items-center">
-                                                            <div className="media-body d-flex flex-column"><strong className="js-lists-values-user-name">Juan Dela
+                                                            <div className="media-body d-flex flex-column"><strong className="js-lists-values-user-name">
+                                                                <img src="../../assets/images/users/profile1.png" alt="image" className="img-fluid avatar-sm rounded-circle" />&nbsp;Juan
+                                                                Dela
                                                                 Cruz</strong></div>
                                                         </div>
                                                     </td>
@@ -108,7 +110,8 @@ export default function BITBoAdminUsers() {
                                                 <tr>
                                                     <td className="mb-3">
                                                         <div className="media align-items-center">
-                                                            <div className="media-body d-flex flex-column"><strong className="js-lists-values-user-name">Crisostomo
+                                                            <div className="media-body d-flex flex-column"><strong className="js-lists-values-user-name">
+                                                                <img src="../../assets/images/users/profile1.png" alt="image" className="img-fluid avatar-sm rounded-circle" />&nbsp;Crisostomo
                                                                 Ibarra</strong></div>
                                                         </div>
                                                     </td>
@@ -136,7 +139,8 @@ export default function BITBoAdminUsers() {
                                                 <tr>
                                                     <td>
                                                         <div className="media align-items-center">
-                                                            <div className="media-body d-flex flex-column"><strong className="js-lists-values-user-name">Maria
+                                                            <div className="media-body d-flex flex-column"><strong className="js-lists-values-user-name">
+                                                                <img src="../../assets/images/users/profile2.png" alt="image" className="img-fluid avatar-sm rounded-circle" />&nbsp;Maria
                                                                 Clara</strong></div>
                                                         </div>
                                                     </td>
@@ -194,7 +198,8 @@ export default function BITBoAdminUsers() {
                                                 <tr>
                                                     <td>
                                                         <div className="media align-items-center">
-                                                            <div className="media-body d-flex flex-column"><strong className="js-lists-values-user-name">Juan Dela
+                                                            <div className="media-body d-flex flex-column"><strong className="js-lists-values-user-name">
+                                                                <img src="../../assets/images/users/profile1.png" alt="image" className="img-fluid avatar-sm rounded-circle" />&nbsp;Juan Dela
                                                                 Cruz</strong></div>
                                                         </div>
                                                     </td>
@@ -222,7 +227,8 @@ export default function BITBoAdminUsers() {
                                                 <tr>
                                                     <td className="mb-3">
                                                         <div className="media align-items-center">
-                                                            <div className="media-body d-flex flex-column"><strong className="js-lists-values-user-name">Crisostomo
+                                                            <div className="media-body d-flex flex-column"><strong className="js-lists-values-user-name">
+                                                                <img src="../../assets/images/users/profile1.png" alt="image" className="img-fluid avatar-sm rounded-circle" />&nbsp;Crisostomo
                                                                 Ibarra</strong></div>
                                                         </div>
                                                     </td>
@@ -250,7 +256,8 @@ export default function BITBoAdminUsers() {
                                                 <tr>
                                                     <td>
                                                         <div className="media align-items-center">
-                                                            <div className="media-body d-flex flex-column"><strong className="js-lists-values-user-name">Maria
+                                                            <div className="media-body d-flex flex-column"><strong className="js-lists-values-user-name">
+                                                                <img src="../../assets/images/users/profile2.png" alt="image" className="img-fluid avatar-sm rounded-circle" />&nbsp;Maria
                                                                 Clara</strong></div>
                                                         </div>
                                                     </td>
@@ -308,7 +315,8 @@ export default function BITBoAdminUsers() {
                                                 <tr>
                                                     <td>
                                                         <div className="media align-items-center">
-                                                            <div className="media-body d-flex flex-column"><strong className="js-lists-values-user-name">Juan Dela
+                                                            <div className="media-body d-flex flex-column"><strong className="js-lists-values-user-name">
+                                                                <img src="../../assets/images/users/profile1.png" alt="image" className="img-fluid avatar-sm rounded-circle" />&nbsp;Juan Dela
                                                                 Cruz</strong></div>
                                                         </div>
                                                     </td>
@@ -336,7 +344,8 @@ export default function BITBoAdminUsers() {
                                                 <tr>
                                                     <td className="mb-3">
                                                         <div className="media align-items-center">
-                                                            <div className="media-body d-flex flex-column"><strong className="js-lists-values-user-name">Crisostomo
+                                                            <div className="media-body d-flex flex-column"><strong className="js-lists-values-user-name">
+                                                                <img src="../../assets/images/users/profile1.png" alt="image" className="img-fluid avatar-sm rounded-circle" />&nbsp;Crisostomo
                                                                 Ibarra</strong></div>
                                                         </div>
                                                     </td>
@@ -364,7 +373,8 @@ export default function BITBoAdminUsers() {
                                                 <tr>
                                                     <td>
                                                         <div className="media align-items-center">
-                                                            <div className="media-body d-flex flex-column"><strong className="js-lists-values-user-name">Maria
+                                                            <div className="media-body d-flex flex-column"><strong className="js-lists-values-user-name">
+                                                                <img src="../../assets/images/users/profile2.png" alt="image" className="img-fluid avatar-sm rounded-circle" />&nbsp;Maria
                                                                 Clara</strong></div>
                                                         </div>
                                                     </td>
@@ -422,7 +432,8 @@ export default function BITBoAdminUsers() {
                                                 <tr>
                                                     <td>
                                                         <div className="media align-items-center">
-                                                            <div className="media-body d-flex flex-column"><strong className="js-lists-values-user-name">Juan Dela
+                                                            <div className="media-body d-flex flex-column"><strong className="js-lists-values-user-name">
+                                                                <img src="../../assets/images/users/profile1.png" alt="image" className="img-fluid avatar-sm rounded-circle" />&nbsp;Juan Dela
                                                                 Cruz</strong></div>
                                                         </div>
                                                     </td>
@@ -450,7 +461,8 @@ export default function BITBoAdminUsers() {
                                                 <tr>
                                                     <td className="mb-3">
                                                         <div className="media align-items-center">
-                                                            <div className="media-body d-flex flex-column"><strong className="js-lists-values-user-name">Crisostomo
+                                                            <div className="media-body d-flex flex-column"><strong className="js-lists-values-user-name">
+                                                                <img src="../../assets/images/users/profile1.png" alt="image" className="img-fluid avatar-sm rounded-circle" />&nbsp;Crisostomo
                                                                 Ibarra</strong></div>
                                                         </div>
                                                     </td>
@@ -478,7 +490,8 @@ export default function BITBoAdminUsers() {
                                                 <tr>
                                                     <td>
                                                         <div className="media align-items-center">
-                                                            <div className="media-body d-flex flex-column"><strong className="js-lists-values-user-name">Maria
+                                                            <div className="media-body d-flex flex-column"><strong className="js-lists-values-user-name">
+                                                                <img src="../../assets/images/users/profile2.png" alt="image" className="img-fluid avatar-sm rounded-circle" />&nbsp;Maria
                                                                 Clara</strong></div>
                                                         </div>
                                                     </td>
@@ -570,7 +583,8 @@ export default function BITBoAdminUsers() {
                                                             <td>
                                                                 <div className="media align-items-center">
                                                                     <div className="media-body d-flex flex-column">
-                                                                        <strong className="js-lists-values-user-name">Juan
+                                                                        <strong className="js-lists-values-user-name">
+                                                                            <img src="../../assets/images/users/profile1.png" alt="image" className="img-fluid avatar-sm rounded-circle" />&nbsp;Juan
                                                                             Dela Cruz</strong>
                                                                     </div>
                                                                 </div>
@@ -601,7 +615,8 @@ export default function BITBoAdminUsers() {
                                                             <td className="mb-3">
                                                                 <div className="media align-items-center">
                                                                     <div className="media-body d-flex flex-column">
-                                                                        <strong className="js-lists-values-user-name">Crisostomo
+                                                                        <strong className="js-lists-values-user-name">
+                                                                            <img src="../../assets/images/users/profile1.png" alt="image" className="img-fluid avatar-sm rounded-circle" />&nbsp;Crisostomo
                                                                             Ibarra</strong>
                                                                     </div>
                                                                 </div>
@@ -632,7 +647,8 @@ export default function BITBoAdminUsers() {
                                                             <td>
                                                                 <div className="media align-items-center">
                                                                     <div className="media-body d-flex flex-column">
-                                                                        <strong className="js-lists-values-user-name">Maria
+                                                                        <strong className="js-lists-values-user-name">
+                                                                            <img src="../../assets/images/users/profile2.png" alt="image" className="img-fluid avatar-sm rounded-circle" />&nbsp;Maria
                                                                             Clara</strong>
                                                                     </div>
                                                                 </div>
@@ -692,7 +708,8 @@ export default function BITBoAdminUsers() {
                                                             <td>
                                                                 <div className="media align-items-center">
                                                                     <div className="media-body d-flex flex-column">
-                                                                        <strong className="js-lists-values-user-name">Juan
+                                                                        <strong className="js-lists-values-user-name">
+                                                                            <img src="../../assets/images/users/profile1.png" alt="image" className="img-fluid avatar-sm rounded-circle" />&nbsp;Juan
                                                                             Dela Costa</strong>
                                                                     </div>
                                                                 </div>
@@ -723,7 +740,8 @@ export default function BITBoAdminUsers() {
                                                             <td className="mb-3">
                                                                 <div className="media align-items-center">
                                                                     <div className="media-body d-flex flex-column">
-                                                                        <strong className="js-lists-values-user-name">Crisostomo
+                                                                        <strong className="js-lists-values-user-name">
+                                                                            <img src="../../assets/images/users/profile1.png" alt="image" className="img-fluid avatar-sm rounded-circle" />&nbsp;Crisostomo
                                                                             Ibarra</strong>
                                                                     </div>
                                                                 </div>
@@ -754,7 +772,8 @@ export default function BITBoAdminUsers() {
                                                             <td>
                                                                 <div className="media align-items-center">
                                                                     <div className="media-body d-flex flex-column">
-                                                                        <strong className="js-lists-values-user-name">Maria
+                                                                        <strong className="js-lists-values-user-name">
+                                                                            <img src="../../assets/images/users/profile2.png" alt="image" className="img-fluid avatar-sm rounded-circle" />&nbsp;Maria
                                                                             Clara</strong>
                                                                     </div>
                                                                 </div>
@@ -814,7 +833,8 @@ export default function BITBoAdminUsers() {
                                                             <td>
                                                                 <div className="media align-items-center">
                                                                     <div className="media-body d-flex flex-column">
-                                                                        <strong className="js-lists-values-user-name">Juan
+                                                                        <strong className="js-lists-values-user-name">
+                                                                            <img src="../../assets/images/users/profile1.png" alt="image" className="img-fluid avatar-sm rounded-circle" />&nbsp;Juan
                                                                             Dela Costa</strong>
                                                                     </div>
                                                                 </div>
@@ -845,7 +865,8 @@ export default function BITBoAdminUsers() {
                                                             <td className="mb-3">
                                                                 <div className="media align-items-center">
                                                                     <div className="media-body d-flex flex-column">
-                                                                        <strong className="js-lists-values-user-name">Crisostomo
+                                                                        <strong className="js-lists-values-user-name">
+                                                                            <img src="../../assets/images/users/profile1.png" alt="image" className="img-fluid avatar-sm rounded-circle" />&nbsp;Crisostomo
                                                                             Ibarra</strong>
                                                                     </div>
                                                                 </div>
@@ -876,7 +897,8 @@ export default function BITBoAdminUsers() {
                                                             <td>
                                                                 <div className="media align-items-center">
                                                                     <div className="media-body d-flex flex-column">
-                                                                        <strong className="js-lists-values-user-name">Maria
+                                                                        <strong className="js-lists-values-user-name">
+                                                                            <img src="../../assets/images/users/profile2.png" alt="image" className="img-fluid avatar-sm rounded-circle" />&nbsp;Maria
                                                                             Clara</strong>
                                                                     </div>
                                                                 </div>
@@ -936,7 +958,8 @@ export default function BITBoAdminUsers() {
                                                             <td>
                                                                 <div className="media align-items-center">
                                                                     <div className="media-body d-flex flex-column">
-                                                                        <strong className="js-lists-values-user-name">Juan
+                                                                        <strong className="js-lists-values-user-name">
+                                                                            <img src="../../assets/images/users/profile1.png" alt="image" className="img-fluid avatar-sm rounded-circle" />&nbsp;Juan
                                                                             Dela Costa</strong>
                                                                     </div>
                                                                 </div>
@@ -967,7 +990,8 @@ export default function BITBoAdminUsers() {
                                                             <td className="mb-3">
                                                                 <div className="media align-items-center">
                                                                     <div className="media-body d-flex flex-column">
-                                                                        <strong className="js-lists-values-user-name">Crisostomo
+                                                                        <strong className="js-lists-values-user-name">
+                                                                            <img src="../../assets/images/users/profile1.png" alt="image" className="img-fluid avatar-sm rounded-circle" />&nbsp;Crisostomo
                                                                             Ibarra</strong>
                                                                     </div>
                                                                 </div>
@@ -998,7 +1022,8 @@ export default function BITBoAdminUsers() {
                                                             <td>
                                                                 <div className="media align-items-center">
                                                                     <div className="media-body d-flex flex-column">
-                                                                        <strong className="js-lists-values-user-name">Maria
+                                                                        <strong className="js-lists-values-user-name">
+                                                                            <img src="../../assets/images/users/profile2.png" alt="image" className="img-fluid avatar-sm rounded-circle" />&nbsp;Maria
                                                                             Clara</strong>
                                                                     </div>
                                                                 </div>
@@ -1058,7 +1083,8 @@ export default function BITBoAdminUsers() {
                                                             <td>
                                                                 <div className="media align-items-center">
                                                                     <div className="media-body d-flex flex-column">
-                                                                        <strong className="js-lists-values-user-name">Juan
+                                                                        <strong className="js-lists-values-user-name">
+                                                                            <img src="../../assets/images/users/profile1.png" alt="image" className="img-fluid avatar-sm rounded-circle" />&nbsp;Juan
                                                                             Dela Costa</strong>
                                                                     </div>
                                                                 </div>
@@ -1089,7 +1115,8 @@ export default function BITBoAdminUsers() {
                                                             <td className="mb-3">
                                                                 <div className="media align-items-center">
                                                                     <div className="media-body d-flex flex-column">
-                                                                        <strong className="js-lists-values-user-name">Crisostomo
+                                                                        <strong className="js-lists-values-user-name">
+                                                                            <img src="../../assets/images/users/profile1.png" alt="image" className="img-fluid avatar-sm rounded-circle" />&nbsp;Crisostomo
                                                                             Ibarra</strong>
                                                                     </div>
                                                                 </div>
@@ -1120,7 +1147,8 @@ export default function BITBoAdminUsers() {
                                                             <td>
                                                                 <div className="media align-items-center">
                                                                     <div className="media-body d-flex flex-column">
-                                                                        <strong className="js-lists-values-user-name">Maria
+                                                                        <strong className="js-lists-values-user-name">
+                                                                            <img src="../../assets/images/users/profile2.png" alt="image" className="img-fluid avatar-sm rounded-circle" />&nbsp;Maria
                                                                             Clara</strong>
                                                                     </div>
                                                                 </div>
@@ -1182,7 +1210,8 @@ export default function BITBoAdminUsers() {
                                                 <tr>
                                                     <td>
                                                         <div className="media align-items-center">
-                                                            <div className="media-body d-flex flex-column"><strong className="js-lists-values-user-name">Juan Dela
+                                                            <div className="media-body d-flex flex-column"><strong className="js-lists-values-user-name">
+                                                                <img src="../../assets/images/users/profile1.png" alt="image" className="img-fluid avatar-sm rounded-circle" />&nbsp;Juan Dela
                                                                 Cruz</strong></div>
                                                         </div>
                                                     </td>
@@ -1210,7 +1239,8 @@ export default function BITBoAdminUsers() {
                                                 <tr>
                                                     <td className="mb-3">
                                                         <div className="media align-items-center">
-                                                            <div className="media-body d-flex flex-column"><strong className="js-lists-values-user-name">Crisostomo
+                                                            <div className="media-body d-flex flex-column"><strong className="js-lists-values-user-name">
+                                                                <img src="../../assets/images/users/profile1.png" alt="image" className="img-fluid avatar-sm rounded-circle" />&nbsp;Crisostomo
                                                                 Ibarra</strong></div>
                                                         </div>
                                                     </td>
@@ -1238,7 +1268,8 @@ export default function BITBoAdminUsers() {
                                                 <tr>
                                                     <td>
                                                         <div className="media align-items-center">
-                                                            <div className="media-body d-flex flex-column"><strong className="js-lists-values-user-name">Maria
+                                                            <div className="media-body d-flex flex-column"><strong className="js-lists-values-user-name">
+                                                                <img src="../../assets/images/users/profile2.png" alt="image" className="img-fluid avatar-sm rounded-circle" />&nbsp;Maria
                                                                 Clara</strong></div>
                                                         </div>
                                                     </td>
@@ -2231,6 +2262,7 @@ export default function BITBoAdminUsers() {
                     </div>{/* /.modal-dialog */}
                 </div>{/* /.modal */}
             </div> {/* container */}
+
 
         </React.Fragment>
     )
