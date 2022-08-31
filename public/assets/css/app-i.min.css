@@ -3,7 +3,7 @@
 /*!
  * Bootstrap v5.0.2 (https://getbootstrap.com/)
  * Copyright 2011-2021 The Bootstrap Authors
- * Copyright 2011-2021 Twitter, Inc.
+ * Copyright 2011-2021 Twitter, Inc.123088
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
 :root {
@@ -13857,7 +13857,7 @@ body {
 .leftside-menu {
     width: 260px;
     z-index: 10;
-    background: linear-gradient(135deg, #8f75da 0, #123088 60%);
+    background: linear-gradient(135deg, #123088 0, #123088 60%);
     bottom: 0;
     position: fixed;
     top: 0;
